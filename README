@@ -1,0 +1,9 @@
+Ciorceanu Andrei Razvan
+Grupa:314CA
+Problema 1-ninel: consta in gasirea copacilor speciali,tocmai de aceea am facut o functie care sa verifice daca un copac este special.
+Cum nu avem voie sa patram inaltimea intr un vector trebuie sa citim 2 copaci prima data si apoi ii vom citi si pe ceilati recursiv
+Am aflat numarul copacilor speciali si suma lor pentru a calcula media aritmetica si am tratat cazurile speciale(acela cand nu avem mai mult de 3 copaci)
+
+Problema 2- vectsecv :consta in punerea intr un vector a cifrelor unui numar pe care l am ordonat crescator si descrescator pentru a face diferentele.Numerele create prin diferente le am pus intr un vector si cu un ok am verificat daca acestea se repeta.Atunci am pastrat indicii pentru a afisa numai secventa recursiva si pe celelalte doar le am numarat.
+
+Problema 3-codeinvim : consta in citirea notelor si creditelor fiecarei materii pentru a calcula punctajul studentului.Materiile la care nu a avut 10 am inmultit diferenta pana la 10 din nota si am inmultit o cu nr de credite pe care le am pastrat intr un vector.Am ordonat vectorul descrescator pentru a afla numarul minim de materii si am tratat cazurile speciale(acela daca punctajul elevului este mai mare decat cel minim,neavand nevoie de marire)
